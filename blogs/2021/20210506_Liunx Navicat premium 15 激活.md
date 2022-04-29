@@ -81,7 +81,7 @@ chmod +x navicat15-premium-cs-pathed.AppImage
 ./navicat-keygen --text ./RegPrivateKey.pem
 ```
 ```shell
-ecarx@chenshen:~/apps/navicat/Navicat15$ ./navicat-keygen --text ./RegPrivateKey.pem 
+@chenshen:~/apps/navicat/Navicat15$ ./navicat-keygen --text ./RegPrivateKey.pem 
 **********************************************************
 *       Navicat Keygen (Linux) by @DoubleLabyrinth       *
 *                   Version: 1.0                         *

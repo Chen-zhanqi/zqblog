@@ -2,6 +2,7 @@ module.exports = {
     "title": "经过的博客",
     "description": "",
     "dest": "public",
+    "base": '/zqblog/',
     "head": [
         [
             "link",
